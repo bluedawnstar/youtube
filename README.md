@@ -12,4 +12,7 @@
   - [1324. Print Words Vertically](https://leetcode.com/problems/print-words-vertically/ "1324. Print Words Vertically")
     - [YouTube](https://youtu.be/XQvrEIJcbQY "YouTube")
 	- [Solutions](https://github.com/bluedawnstar/youtube/blob/master/leetcode/1324%2C%20Print%20Words%20Vertically.cpp "Solutions")
+  - [1325. Delete Leaves With a Given Value](https://leetcode.com/problems/delete-leaves-with-a-given-value/ "1325. Delete Leaves With a Given Value")
+    - [YouTube](https://youtu.be/bRcL2SbAcZA "YouTube")
+	- [Solutions](https://github.com/bluedawnstar/youtube/blob/master/leetcode/1325%2C%20Delete%20Leaves%20With%20a%20Given%20Value.cpp "Solutions")
 	
