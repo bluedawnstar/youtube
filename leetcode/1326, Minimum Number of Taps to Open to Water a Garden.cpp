@@ -5,12 +5,10 @@ class Solution {
 public:
     int minTaps(int n, vector<int>& ranges) {
         vector<pair<int, int>> R;
-        for (int i = 0; i <= n; i++)
+        for (int i = 0; i <= n; i++) {
             R.emplace_back(i - ranges[i], i + ranges[i]);
-
-        sort(R.begin(), R.end(), [&](const pair<int, int>& a, const pair<int, int>& b) {
-            return a.first < b.first;
-        });
+        }
+        sort(R.begin(), R.end());
 
         int res = 1;
 
