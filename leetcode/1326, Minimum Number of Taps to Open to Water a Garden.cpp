@@ -1,4 +1,5 @@
 // https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden/
+// https://youtu.be/C-JlG52DQOs
 
 // method #1 : O(nlogn)
 class Solution {

@@ -3,23 +3,33 @@
 
 class Solution {
 public:
-    int maximum69Number(int num) {
-        vector<int> digits;
-        while (num > 0) {
-            digits.push_back(num % 10);
-            num /= 10;
+    vector<string> printVertically(string s) {
+        vector<string> words;
+
+        int maxLength = 0;
+
+        string w;
+        stringstream ss(s);
+        while (ss >> w) {
+            words.push_back(w);
+            maxLength = max(maxLength, int(w.length()));
         }
 
-        for (int i = int(digits.size()) - 1; i >= 0; i--) {
-            if (digits[i] == 6) {
-                digits[i] = 9;
-                break;
+        vector<string> result;
+        for (int i = 0; i < maxLength; i++) {
+            string temp;
+            for (int j = 0; j < int(words.size()); j++) {
+                if (words[j].length() <= i)
+                    temp.push_back(' ');
+                else
+                    temp.push_back(words[j][i]);
             }
-        }
 
-        int result = 0;
-        for (int i = int(digits.size()) - 1; i >= 0; i--) {
-            result = result * 10 + digits[i];
+            // remove trailing spaces
+            while (temp.back() == ' ')
+                temp.pop_back();
+
+            result.push_back(temp);
         }
 
         return result;
