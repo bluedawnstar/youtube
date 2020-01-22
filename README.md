@@ -15,4 +15,7 @@
   - [1325. Delete Leaves With a Given Value](https://leetcode.com/problems/delete-leaves-with-a-given-value/ "1325. Delete Leaves With a Given Value")
     - [YouTube](https://youtu.be/bRcL2SbAcZA "YouTube")
 	- [Solutions](https://github.com/bluedawnstar/youtube/blob/master/leetcode/1325%2C%20Delete%20Leaves%20With%20a%20Given%20Value.cpp "Solutions")
-	
+  - [1326. Minimum Number of Taps to Open to Water a Garden](https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden/ "1326. Minimum Number of Taps to Open to Water a Garden")
+    - [YouTube](https://youtu.be/C-JlG52DQOs "YouTube")
+	- [Solutions](https://github.com/bluedawnstar/youtube/blob/master/leetcode/1326%2C%20Minimum%20Number%20of%20Taps%20to%20Open%20to%20Water%20a%20Garden.cpp "Solutions")
+    - Tag: Greedy
