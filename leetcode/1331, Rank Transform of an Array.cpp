@@ -1,7 +1,7 @@
 // https://leetcode.com/problems/rank-transform-of-an-array/
-// 
+// https://youtu.be/9HbSAjJfG6g
 
-// O(nlogn)
+// method #1 : O(nlogn)
 class Solution {
 public:
     vector<int> arrayRankTransform(vector<int>& arr) {
@@ -21,6 +21,27 @@ public:
                 res[idx[i]] = ++rank;
         }
 
+        return res;
+    }
+};
+
+// method #2 : O(nlogn)
+class Solution {
+public:
+    vector<int> arrayRankTransform(vector<int>& arr) {
+        int n = int(arr.size());
+
+        vector<int> A = arr;
+        sort(A.begin(), A.end());
+        unordered_map<int, int> rank;
+        for (int a : A) {
+            if (rank.find(a) == rank.end())
+                rank[a] = rank.size() + 1;
+        }
+
+        vector<int> res(n);
+        for (int i = 0; i < n; i++)
+            res[i] = rank[arr[i]];
         return res;
     }
 };
