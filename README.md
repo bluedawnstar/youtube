@@ -30,6 +30,10 @@
     - [YouTube](https://youtu.be/gJA2ykdVmEE "YouTube")
 	- [Solutions](https://github.com/bluedawnstar/youtube/blob/master/leetcode/1329%2C%20Sort%20the%20Matrix%20Diagonally.cpp "Solutions")
     - Tag: medium, matrix
+  - [1330. Reverse Subarray To Maximize Array Value](https://leetcode.com/problems/reverse-subarray-to-maximize-array-value/ "1330. Reverse Subarray To Maximize Array Value")
+    - [YouTube](https://youtu.be/8Au3xuwHfTM "YouTube")
+	- [Solutions](https://github.com/bluedawnstar/youtube/blob/master/leetcode/1330%2C%20Reverse%20Subarray%20To%20Maximize%20Array%20Value.cpp "Solutions")
+    - Tag: hard, math
   - [1331. Rank Transform of an Array](https://leetcode.com/problems/rank-transform-of-an-array/ "1331. Rank Transform of an Array")
     - [YouTube](https://youtu.be/9HbSAjJfG6g "YouTube")
 	- [Solutions](https://github.com/bluedawnstar/youtube/blob/master/leetcode/1331%2C%20Rank%20Transform%20of%20an%20Array.cpp "Solutions")
