@@ -38,3 +38,7 @@
     - [YouTube](https://youtu.be/9HbSAjJfG6g "YouTube")
 	- [Solutions](https://github.com/bluedawnstar/youtube/blob/master/leetcode/1331%2C%20Rank%20Transform%20of%20an%20Array.cpp "Solutions")
     - Tag: easy
+  - [1332. Remove Palindromic Subsequences](https://leetcode.com/problems/remove-palindromic-subsequences/ "1332. Remove Palindromic Subsequences")
+    - [YouTube](https://youtu.be/6CvzjAt9oi0 "YouTube")
+	- [Solutions](https://github.com/bluedawnstar/youtube/blob/master/leetcode/1332%2C%20Remove%20Palindromic%20Subsequences.cpp "Solutions")
+    - Tag: easy, string, palindrome
