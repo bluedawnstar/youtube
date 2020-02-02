@@ -38,7 +38,11 @@
     - [YouTube](https://youtu.be/9HbSAjJfG6g "YouTube")
 	- [Solutions](https://github.com/bluedawnstar/youtube/blob/master/leetcode/1331%2C%20Rank%20Transform%20of%20an%20Array.cpp "Solutions")
     - Tag: easy
-  - [1332. Remove Palindromic Subsequences](https://leetcode.com/problems/remove-palindromic-subsequences/ "1332. Remove Palindromic Subsequences")
+  - [1337. Remove Palindromic Subsequences](https://leetcode.com/problems/remove-palindromic-subsequences/ "1337. Remove Palindromic Subsequences")
     - [YouTube](https://youtu.be/6CvzjAt9oi0 "YouTube")
-	- [Solutions](https://github.com/bluedawnstar/youtube/blob/master/leetcode/1332%2C%20Remove%20Palindromic%20Subsequences.cpp "Solutions")
+	- [Solutions](https://github.com/bluedawnstar/youtube/blob/master/leetcode/1337%2C%20Remove%20Palindromic%20Subsequences.cpp "Solutions")
     - Tag: easy, string, palindrome
+  - [1339. Find the City With the Smallest Number of Neighbors at a Threshold Distance](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/ "1339. Find the City With the Smallest Number of Neighbors at a Threshold Distance")
+    - [YouTube](https://youtu.be/lPYYWlRDF-A "YouTube")
+	- [Solutions](https://github.com/bluedawnstar/youtube/blob/master/leetcode/1339%2C%20Find%20the%20City%20With%20the%20Smallest%20Number%20of%20Neighbors%20at%20a%20Threshold%20Distance.cpp "Solutions")
+    - Tag: medium, graph, Dijkstra, Floyd-Warshall
