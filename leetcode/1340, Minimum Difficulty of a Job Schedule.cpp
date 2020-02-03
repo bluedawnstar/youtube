@@ -1,5 +1,5 @@
 // https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/
-// https://youtu.be/t6DtsLnMVaM
+// https://youtu.be/eMBakNiUyyw
 
 // method #1 : DP, O(d*n^2)
 class Solution {
