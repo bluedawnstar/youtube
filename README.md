@@ -46,3 +46,7 @@
     - [YouTube](https://youtu.be/lPYYWlRDF-A "YouTube")
 	- [Solutions](https://github.com/bluedawnstar/youtube/blob/master/leetcode/1339%2C%20Find%20the%20City%20With%20the%20Smallest%20Number%20of%20Neighbors%20at%20a%20Threshold%20Distance.cpp "Solutions")
     - Tag: medium, graph, Dijkstra, Floyd-Warshall
+  - [1340. Minimum Difficulty of a Job Schedule](https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/ "1340. Minimum Difficulty of a Job Schedule")
+    - [YouTube](https://youtu.be/eMBakNiUyyw "YouTube")
+	- [Solutions](https://github.com/bluedawnstar/youtube/blob/master/leetcode/1340%2C%20Minimum%20Difficulty%20of%20a%20Job%20Schedule.cpp "Solutions")
+    - Tag: hard, dynamic programming, memoization
