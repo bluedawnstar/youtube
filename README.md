@@ -4,6 +4,32 @@
 
   - [Introduction](https://www.youtube.com/watch?v=pQS-6RwSB6A "Introduction")
 
+## Algorithm & Data Structure
+  - [Graph Basic 1 - graph 표현, DFS, BFS](https://youtu.be/nEDkeZvF4lg "Graph Basic 1 - graph 표현, DFS, BFS")
+	- [Solutions](https://github.com/bluedawnstar/youtube/tree/master/algorithm_datastructure/graph "Solutions")
+    - Tag: graph, DFS, BFS
+  - [Graph Basic 2 - DFS를 이용한 cycle detection](https://youtu.be/eNcmpisoIx4 "Graph Basic 2 - DFS를 이용한 cycle detection")
+	- [Solutions](https://github.com/bluedawnstar/youtube/tree/master/algorithm_datastructure/graph "Solutions")
+    - Tag: graph, DFS, cycle detection
+  - [Graph Basic 3 - weight 없는 graph에서 최단 거리 계산]https://youtu.be/w9oIzfRDToQ "Graph Basic 3 - weight 없는 graph에서 최단 거리 계산")
+	- [Solutions](https://github.com/bluedawnstar/youtube/tree/master/algorithm_datastructure/graph "Solutions")
+    - Tag: graph, shortest path
+  - [Graph Basic 4 - Dijkstra 1/3](https://youtu.be/2AMVXqD_iCA "Graph Basic 4 - Dijkstra 1/3")
+	- [Solutions](https://github.com/bluedawnstar/youtube/tree/master/algorithm_datastructure/graph "Solutions")
+    - Tag: graph, shortest path, Dijkstra
+  - [Graph Basic 5 - Dijkstra 2/3](https://youtu.be/GEYYC9TBqoQ "Graph Basic 5 - Dijkstra 2/3")
+	- [Solutions](https://github.com/bluedawnstar/youtube/tree/master/algorithm_datastructure/graph "Solutions")
+    - Tag: graph, shortest path, Dijkstra
+  - [Graph Basic 6 - Dijkstra 3/3](https://youtu.be/CL6J3X0YZdk "Graph Basic 6 - Dijkstra 3/3")
+	- [Solutions](https://github.com/bluedawnstar/youtube/tree/master/algorithm_datastructure/graph "Solutions")
+    - Tag: graph, shortest path, Dijkstra
+  - [Graph Basic 7 - 모든 쌍의 최단 거리 찾기 Floyd Warshall](https://youtu.be/YiGxC9hAg4s "Graph Basic 7 - 모든 쌍의 최단 거리 찾기 Floyd Warshall")
+	- [Solutions](https://github.com/bluedawnstar/youtube/tree/master/algorithm_datastructure/graph "Solutions")
+    - Tag: graph, shortest path, all pairs, Floyd-Warshall
+  - [Algorithm - 모든 조합(부분집합) 구하기 (1/2)](https://youtu.be/wy678Yc5iqE "Algorithm - 모든 조합(부분집합) 구하기 (1/2)")
+	- [Solutions](https://github.com/bluedawnstar/youtube/blob/master/algorithm_datastructure/combinatorics/LeetCode%20-%2078%2C%20subsets.cpp "Solutions")
+    - Tag: graph, shortest path, all pairs, Floyd-Warshall
+
 
 ## LeetCode
   - [1323. Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/ "1323. Maximum 69 Number")
