@@ -1,7 +1,7 @@
 // https://leetcode.com/problems/subsets/
 // https://youtu.be/wy678Yc5iqE
 
-// method #1 : using bitset, O(2^n*logn)
+// method #1 : using bitset, O(n*2^n)
 class Solution {
 public:
     vector<vector<int>> subsets(vector<int>& nums) {
@@ -21,7 +21,7 @@ public:
     }
 };
 
-// method #2 : backtracking, O(2^n)
+// method #2 : backtracking, O(n*2^n)
 class Solution {
 public:
     void rec(vector<vector<int>>& res, const vector<int>& nums, vector<int>& v, int depth) {
@@ -48,7 +48,7 @@ public:
     }
 };
 
-// method #3 : enhanced backtracking, O(2^n)
+// method #3 : enhanced backtracking, O(n*2^n)
 class Solution {
 public:
     void rec(vector<vector<int>>& res, const vector<int>& nums, vector<int>& v, int depth) {
