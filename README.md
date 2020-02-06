@@ -11,7 +11,7 @@
   - [Graph Basic 2 - DFS를 이용한 cycle detection](https://youtu.be/eNcmpisoIx4 "Graph Basic 2 - DFS를 이용한 cycle detection")
 	- [Solutions](https://github.com/bluedawnstar/youtube/tree/master/algorithm_datastructure/graph "Solutions")
     - Tag: graph, DFS, cycle detection
-  - [Graph Basic 3 - weight 없는 graph에서 최단 거리 계산]https://youtu.be/w9oIzfRDToQ "Graph Basic 3 - weight 없는 graph에서 최단 거리 계산")
+  - [Graph Basic 3 - weight 없는 graph에서 최단 거리 계산](https://youtu.be/w9oIzfRDToQ "Graph Basic 3 - weight 없는 graph에서 최단 거리 계산")
 	- [Solutions](https://github.com/bluedawnstar/youtube/tree/master/algorithm_datastructure/graph "Solutions")
     - Tag: graph, shortest path
   - [Graph Basic 4 - Dijkstra 1/3](https://youtu.be/2AMVXqD_iCA "Graph Basic 4 - Dijkstra 1/3")
