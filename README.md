@@ -29,10 +29,10 @@
     - Tag: graph, shortest path, all pairs, Floyd-Warshall
   - [Algorithm - 모든 조합(부분집합) 구하기 (1/2)](https://youtu.be/wy678Yc5iqE "Algorithm - 모든 조합(부분집합) 구하기 (1/2)")
 	- [Solutions](https://github.com/bluedawnstar/youtube/blob/master/algorithm_datastructure/combinatorics/LeetCode%20-%2078%2C%20subsets.cpp "Solutions")
-    - Tag: combinatorics, combination
+    - Tag: combination, bitmask, backtracking
   - [Algorithm - 모든 조합(부분집합) 구하기 (2/2) - 중복이 있는 경우](https://youtu.be/kaIZnfwYg1M "Algorithm - 모든 조합(부분집합) 구하기 (2/2) - 중복이 있는 경우")
 	- [Solutions](https://github.com/bluedawnstar/youtube/blob/master/algorithm_datastructure/combinatorics/LeetCode%20-%2090%2C%20subsets%20II.cpp "Solutions")
-    - Tag: combinatorics, combination
+    - Tag: combination, backtracking
 
 
 ## LeetCode
