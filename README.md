@@ -68,15 +68,31 @@
     - [YouTube](https://youtu.be/9HbSAjJfG6g "YouTube")
 	- [Solutions](https://github.com/bluedawnstar/youtube/blob/master/leetcode/1331%2C%20Rank%20Transform%20of%20an%20Array.cpp "Solutions")
     - Tag: easy
-  - [1337. Remove Palindromic Subsequences](https://leetcode.com/problems/remove-palindromic-subsequences/ "1337. Remove Palindromic Subsequences")
+  - [1332. Remove Palindromic Subsequences](https://leetcode.com/problems/remove-palindromic-subsequences/ "1332. Remove Palindromic Subsequences")
     - [YouTube](https://youtu.be/6CvzjAt9oi0 "YouTube")
-	- [Solutions](https://github.com/bluedawnstar/youtube/blob/master/leetcode/1337%2C%20Remove%20Palindromic%20Subsequences.cpp "Solutions")
+	- [Solutions](https://github.com/bluedawnstar/youtube/blob/master/leetcode/1332%2C%20Remove%20Palindromic%20Subsequences.cpp "Solutions")
     - Tag: easy, string, palindrome
-  - [1339. Find the City With the Smallest Number of Neighbors at a Threshold Distance](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/ "1339. Find the City With the Smallest Number of Neighbors at a Threshold Distance")
+  - [1334. Find the City With the Smallest Number of Neighbors at a Threshold Distance](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/ "1334. Find the City With the Smallest Number of Neighbors at a Threshold Distance")
     - [YouTube](https://youtu.be/lPYYWlRDF-A "YouTube")
-	- [Solutions](https://github.com/bluedawnstar/youtube/blob/master/leetcode/1339%2C%20Find%20the%20City%20With%20the%20Smallest%20Number%20of%20Neighbors%20at%20a%20Threshold%20Distance.cpp "Solutions")
+	- [Solutions](https://github.com/bluedawnstar/youtube/blob/master/leetcode/1334%2C%20Find%20the%20City%20With%20the%20Smallest%20Number%20of%20Neighbors%20at%20a%20Threshold%20Distance.cpp "Solutions")
     - Tag: medium, graph, Dijkstra, Floyd-Warshall
-  - [1340. Minimum Difficulty of a Job Schedule](https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/ "1340. Minimum Difficulty of a Job Schedule")
+  - [1335. Minimum Difficulty of a Job Schedule](https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/ "1335. Minimum Difficulty of a Job Schedule")
     - [YouTube](https://youtu.be/eMBakNiUyyw "YouTube")
-	- [Solutions](https://github.com/bluedawnstar/youtube/blob/master/leetcode/1340%2C%20Minimum%20Difficulty%20of%20a%20Job%20Schedule.cpp "Solutions")
+	- [Solutions](https://github.com/bluedawnstar/youtube/blob/master/leetcode/1335%2C%20Minimum%20Difficulty%20of%20a%20Job%20Schedule.cpp "Solutions")
     - Tag: hard, dynamic programming, memoization
+  - [1337. The K Weakest Rows in a Matrix](https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/ "1337. The K Weakest Rows in a Matrix")
+    - [YouTube](https://youtu.be/tXLNOkOAVQY "YouTube")
+	- [Solutions](https://github.com/bluedawnstar/youtube/blob/master/leetcode/1337%2C%20The%20K%20Weakest%20Rows%20in%20a%20Matrix.cpp "Solutions")
+    - Tag: easy
+  - [1338. Reduce Array Size to The Half](https://leetcode.com/problems/reduce-array-size-to-the-half/ "1338. Reduce Array Size to The Half")
+    - [YouTube](https://youtu.be/tXLNOkOAVQY "YouTube")
+	- [Solutions](https://github.com/bluedawnstar/youtube/blob/master/leetcode/1338%2C%20Reduce%20Array%20Size%20to%20The%20Half.cpp "Solutions")
+    - Tag: medium, greedy
+  - [1339. Maximum Product of Splitted Binary Tree](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/ "1339. Maximum Product of Splitted Binary Tree")
+    - [YouTube](https://youtu.be/tXLNOkOAVQY "YouTube")
+	- [Solutions](https://github.com/bluedawnstar/youtube/blob/master/leetcode/1339%2C%20Maximum%20Product%20of%20Splitted%20Binary%20Tree.cpp "Solutions")
+    - Tag: medium, recursive, tree
+  - [1340. Jump Game V](https://leetcode.com/problems/jump-game-v/ "1340. Jump Game V")
+    - [YouTube](https://youtu.be/tXLNOkOAVQY "YouTube")
+	- [Solutions](https://github.com/bluedawnstar/youtube/blob/master/leetcode/1340%2C%20Jump%20Game%20V.cpp "Solutions")
+    - Tag: hard, dynamic programming
