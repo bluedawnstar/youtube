@@ -96,3 +96,20 @@
     - [YouTube](https://youtu.be/tXLNOkOAVQY "YouTube")
 	- [Solutions](https://github.com/bluedawnstar/youtube/blob/master/leetcode/1340%2C%20Jump%20Game%20V.cpp "Solutions")
     - Tag: hard, dynamic programming
+  - [1342. Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/ "1342. Number of Steps to Reduce a Number to Zero")
+    - [YouTube](https://youtu.be/S4XKV2mrpXM "YouTube")
+	- [Solutions](https://github.com/bluedawnstar/youtube/blob/master/leetcode/1342%2C%20Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero.cpp "Solutions")
+    - Tag: easy
+  - [1343. Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold](https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/ "1343. Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold")
+    - [YouTube](https://youtu.be/S4XKV2mrpXM "YouTube")
+	- [Solutions](https://github.com/bluedawnstar/youtube/blob/master/leetcode/1343%2C%20Number%20of%20Sub-arrays%20of%20Size%20K%20and%20Average%20Greater%20than%20or%20Equal%20to%20Threshold.cpp "Solutions")
+    - Tag: medium, sliding window
+  - [1344. Angle Between Hands of a Clock](https://leetcode.com/problems/angle-between-hands-of-a-clock/ "1344. Angle Between Hands of a Clock")
+    - [YouTube](https://youtu.be/S4XKV2mrpXM "YouTube")
+	- [Solutions](https://github.com/bluedawnstar/youtube/blob/master/leetcode/1344%2C%20Angle%20Between%20Hands%20of%20a%20Clock.cpp "Solutions")
+    - Tag: medium, math
+  - [1345. Jump Game IV](https://leetcode.com/problems/jump-game-iv/ "1345. Jump Game IV")
+    - [YouTube](https://youtu.be/S4XKV2mrpXM "YouTube")
+	- [Solutions](https://github.com/bluedawnstar/youtube/blob/master/leetcode/1345%2C%20Jump%20Game%20IV.cpp "Solutions")
+    - Tag: hard, BFS
+
