@@ -112,4 +112,19 @@
     - [YouTube](https://youtu.be/S4XKV2mrpXM "YouTube")
 	- [Solutions](https://github.com/bluedawnstar/youtube/blob/master/leetcode/1345%2C%20Jump%20Game%20IV.cpp "Solutions")
     - Tag: hard, BFS
-
+  - [1346. Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/ "1346. Check If N and Its Double Exist")
+    - [YouTube](https://youtu.be/_qxTzgOwKpc "YouTube")
+	- [Solutions](https://github.com/bluedawnstar/youtube/blob/master/leetcode/1346%2C%20Check%20If%20N%20and%20Its%20Double%20Exist.cpp "Solutions")
+    - Tag: easy, map
+  - [1347. Minimum Number of Steps to Make Two Strings Anagram](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/ "1347. Minimum Number of Steps to Make Two Strings Anagram")
+    - [YouTube](https://youtu.be/kc_i0O7MvBU "YouTube")
+	- [Solutions](https://github.com/bluedawnstar/youtube/blob/master/leetcode/1347%2C%20Minimum%20Number%20of%20Steps%20to%20Make%20Two%20Strings%20Anagram.cpp "Solutions")
+    - Tag: medium, string
+  - [1348. Tweet Counts Per Frequency](https://leetcode.com/problems/tweet-counts-per-frequency/ "1348. Tweet Counts Per Frequency")
+    - [YouTube](https://youtu.be/NO3r3k76S1o "YouTube")
+	- [Solutions](https://github.com/bluedawnstar/youtube/blob/master/leetcode/1348%2C%20Tweet%20Counts%20Per%20Frequency.cpp "Solutions")
+    - Tag: medium, tree map, hash map
+  - [1349. Maximum Students Taking Exam](https://leetcode.com/problems/maximum-students-taking-exam/ "1349. Maximum Students Taking Exam")
+    - [YouTube](https://youtu.be/4nHdArZC7BA "YouTube")
+	- [Solutions](https://github.com/bluedawnstar/youtube/blob/master/leetcode/1349%2C%20Maximum%20Students%20Taking%20Exam.cpp "Solutions")
+    - Tag: hard, memoization, dynamic programming, bitmask
