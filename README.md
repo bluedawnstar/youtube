@@ -128,3 +128,15 @@
     - [YouTube](https://youtu.be/4nHdArZC7BA "YouTube")
 	- [Solutions](https://github.com/bluedawnstar/youtube/blob/master/leetcode/1349%2C%20Maximum%20Students%20Taking%20Exam.cpp "Solutions")
     - Tag: hard, memoization, dynamic programming, bitmask
+  - [1352. Product of the Last K Numbers](https://leetcode.com/problems/product-of-the-last-k-numbers/ "1352. Product of the Last K Numbers")
+    - [YouTube](https://youtu.be/GgyjxJO-b9c "YouTube")
+	- [Solutions](https://github.com/bluedawnstar/youtube/blob/master/leetcode/1352%2C%20Product%20of%20the%20Last%20K%20Numbers.cpp "Solutions")
+    - Tag: medium, math
+  - [1353. Maximum Number of Events That Can Be Attended](https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended/ "1353. Maximum Number of Events That Can Be Attended")
+    - [YouTube](https://youtu.be/5zr_G17sxBU "YouTube")
+	- [Solutions](https://github.com/bluedawnstar/youtube/blob/master/leetcode/1353%2C%20Maximum%20Number%20of%20Events%20That%20Can%20Be%20Attended.cpp "Solutions")
+    - Tag: medium, sort, heap
+  - [1354. Construct Target Array With Multiple Sums](https://leetcode.com/problems/construct-target-array-with-multiple-sums/ "1354. Construct Target Array With Multiple Sums")
+    - [YouTube](https://youtu.be/9F5AFgLapQc "YouTube")
+	- [Solutions](https://github.com/bluedawnstar/youtube/blob/master/leetcode/1354.%20Construct%20Target%20Array%20With%20Multiple%20Sums.cpp "Solutions")
+    - Tag: hard, math, heap

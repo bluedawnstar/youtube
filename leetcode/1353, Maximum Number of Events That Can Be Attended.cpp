@@ -1,5 +1,5 @@
 // https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended/
-// 
+// https://youtu.be/5zr_G17sxBU
 
 // O(nlogn)
 class Solution {

@@ -1,5 +1,5 @@
 // https://leetcode.com/problems/construct-target-array-with-multiple-sums/
-// 
+// https://youtu.be/9F5AFgLapQc
 
 // O(nlogn)
 class Solution {
