@@ -20,7 +20,7 @@ public:
             Q.pop();
 
             long long a = 2 * x - sum;
-            if (a <= 0)
+            if (a <= 0 || sum <= x)
                 return false;
 
             long long nextMaxX;
