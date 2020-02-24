@@ -140,3 +140,19 @@
     - [YouTube](https://youtu.be/9F5AFgLapQc "YouTube")
 	- [Solutions](https://github.com/bluedawnstar/youtube/blob/master/leetcode/1354%2C%20Construct%20Target%20Array%20With%20Multiple%20Sums.cpp "Solutions")
     - Tag: hard, math, heap
+  - [1358. Number of Substrings Containing All Three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/ "1358. Number of Substrings Containing All Three Characters")
+    - [YouTube](https://youtu.be/efAEJ-z6Fww "YouTube")
+	- [Solutions](https://github.com/bluedawnstar/youtube/blob/master/leetcode/1358%2C%20Number%20of%20Substrings%20Containing%20All%20Three%20Characters.cpp "Solutions")
+    - Tag: medium, 
+  - [1359. Count All Valid Pickup and Delivery Options](https://leetcode.com/problems/count-all-valid-pickup-and-delivery-options/ "1359. Count All Valid Pickup and Delivery Options")
+    - [YouTube](https://youtu.be/qtlIdNSgYFg "YouTube")
+	- [Solutions](https://github.com/bluedawnstar/youtube/blob/master/leetcode/1359%2C%20Count%20All%20Valid%20Pickup%20and%20Delivery%20Options.cpp "Solutions")
+    - Tag: hard, math
+  - [1362. Closest Divisors](https://leetcode.com/problems/closest-divisors/ "1362. Closest Divisors")
+    - [YouTube](https://youtu.be/71uTrZFycx0 "YouTube")
+	- [Solutions](https://github.com/bluedawnstar/youtube/blob/master/leetcode/1362%2C%20Closest%20Divisors.cpp "Solutions")
+    - Tag: medium, math
+  - [1363. Largest Multiple of Three](https://leetcode.com/problems/largest-multiple-of-three/ "1363. Largest Multiple of Three")
+    - [YouTube](https://youtu.be/gktcR43XEe8 "YouTube")
+	- [Solutions](https://github.com/bluedawnstar/youtube/blob/master/leetcode/1363%2C%20Largest%20Multiple%20of%20Three.cpp "Solutions")
+    - Tag: hard, math
