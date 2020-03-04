@@ -156,3 +156,11 @@
     - [YouTube](https://youtu.be/gktcR43XEe8 "YouTube")
 	- [Solutions](https://github.com/bluedawnstar/youtube/blob/master/leetcode/1363%2C%20Largest%20Multiple%20of%20Three.cpp "Solutions")
     - Tag: hard, math
+  - [1367. Linked List in Binary Tree](https://leetcode.com/problems/linked-list-in-binary-tree/ "1367. Linked List in Binary Tree")
+    - [YouTube](https://youtu.be/Auh37w85fA0 "YouTube")
+	- [Solutions](https://github.com/bluedawnstar/youtube/blob/master/leetcode/1367%2C%20Linked%20List%20in%20Binary%20Tree.cpp "Solutions")
+    - Tag: medium, linked list, binary tree
+  - [1368. Minimum Cost to Make at Least One Valid Path in a Grid](https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/ "1368. Minimum Cost to Make at Least One Valid Path in a Grid")
+    - [YouTube](https://youtu.be/4BqoDLdGDaE "YouTube")
+	- [Solutions](https://github.com/bluedawnstar/youtube/blob/master/leetcode/1368%2C%20Minimum%20Cost%20to%20Make%20at%20Least%20One%20Valid%20Path%20in%20a%20Grid.cpp "Solutions")
+    - Tag: hard, bread-first search, dijkstra
