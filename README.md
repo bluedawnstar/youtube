@@ -164,3 +164,39 @@
     - [YouTube](https://youtu.be/4BqoDLdGDaE "YouTube")
 	- [Solutions](https://github.com/bluedawnstar/youtube/blob/master/leetcode/1368%2C%20Minimum%20Cost%20to%20Make%20at%20Least%20One%20Valid%20Path%20in%20a%20Grid.cpp "Solutions")
     - Tag: hard, bread-first search, dijkstra
+  - [1371. Find the Longest Substring Containing Vowels in Even Counts](https://leetcode.com/problems/find-the-longest-substring-containing-vowels-in-even-counts/ "1371. Find the Longest Substring Containing Vowels in Even Counts")
+    - [YouTube](https://youtu.be/AKWegRq_jY0 "YouTube")
+	- [Solutions](https://github.com/bluedawnstar/youtube/blob/master/leetcode/1371%2C%20Find%20the%20Longest%20Substring%20Containing%20Vowels%20in%20Even%20Counts.cpp "Solutions")
+    - Tag: medium, string
+ - [1372. Longest ZigZag Path in a Binary Tree](https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/ "1372. Longest ZigZag Path in a Binary Tree")
+    - [YouTube](https://youtu.be/5W7LlybzdD4 "YouTube")
+	- [Solutions](https://github.com/bluedawnstar/youtube/blob/master/leetcode/1372%2C%20Longest%20ZigZag%20Path%20in%20a%20Binary%20Tree.cpp "Solutions")
+    - Tag: medium, binary tree
+ - [1373. Maximum Sum BST in Binary Tree](https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/ "1373. Maximum Sum BST in Binary Tree")
+    - [YouTube](https://youtu.be/kYffNXU7CQo "YouTube")
+	- [Solutions](https://github.com/bluedawnstar/youtube/blob/master/leetcode/1373%2C%20Maximum%20Sum%20BST%20in%20Binary%20Tree.cpp "Solutions")
+    - Tag: hard, binary tree
+  - [1375. Bulb Switcher III](https://leetcode.com/problems/bulb-switcher-iii/ "1375. Bulb Switcher III")
+    - [YouTube](https://youtu.be/5wEKML_xnmA "YouTube")
+	- [Solutions](https://github.com/bluedawnstar/youtube/blob/master/leetcode/1375%2C%20Bulb%20Switcher%20III.cpp "Solutions")
+    - Tag: medium
+ - [1376. Time Needed to Inform All Employees](https://leetcode.com/problems/time-needed-to-inform-all-employees/ "1376. Time Needed to Inform All Employees")
+    - [YouTube](https://youtu.be/DB0Lq7hxNXE "YouTube")
+	- [Solutions](https://github.com/bluedawnstar/youtube/blob/master/leetcode/1376%2C%20Time%20Needed%20to%20Inform%20All%20Employees.cpp "Solutions")
+    - Tag: medium, tree, depth-first search, breadth-first search
+ - [1377. Frog Position After T Seconds](https://leetcode.com/problems/frog-position-after-t-seconds/ "1377. Frog Position After T Seconds")
+    - [YouTube](https://youtu.be/q0nHODCrt_s "YouTube")
+	- [Solutions](https://github.com/bluedawnstar/youtube/blob/master/leetcode/1377%2C%20Frog%20Position%20After%20T%20Seconds.cpp "Solutions")
+    - Tag: hard, tree, depth-first search, breadth-first search
+  - [1381. Design a Stack With Increment Operation](https://leetcode.com/problems/design-a-stack-with-increment-operation/ "1381. Design a Stack With Increment Operation")
+    - [YouTube](https://youtu.be/Nt3iFIbnQvU "YouTube")
+	- [Solutions](https://github.com/bluedawnstar/youtube/blob/master/leetcode/1381%2C%20Design%20a%20Stack%20With%20Increment%20Operation.cpp "Solutions")
+    - Tag: medium, stack, design
+ - [1382. Balance a Binary Search Tree](https://leetcode.com/problems/balance-a-binary-search-tree/ "1382. Balance a Binary Search Tree")
+    - [YouTube](https://youtu.be/FMMDSB6YSLo "YouTube")
+	- [Solutions](https://github.com/bluedawnstar/youtube/blob/master/leetcode/1382%2C%20Balance%20a%20Binary%20Search%20Tree.cpp "Solutions")
+    - Tag: medium, binary search tree, divide-and-conquer
+ - [1383. Maximum Performance of a Team](https://leetcode.com/problems/maximum-performance-of-a-team/ "1383. Maximum Performance of a Team")
+    - [YouTube](https://youtu.be/crWQCiQUp_M "YouTube")
+	- [Solutions](https://github.com/bluedawnstar/youtube/blob/master/leetcode/1383%2C%20Maximum%20Performance%20of%20a%20Team.cpp "Solutions")
+    - Tag: hard, greedy, sort, heap
