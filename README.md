@@ -33,6 +33,15 @@
   - [Algorithm - 모든 조합(부분집합) 구하기 (2/2) - 중복이 있는 경우](https://youtu.be/kaIZnfwYg1M "Algorithm - 모든 조합(부분집합) 구하기 (2/2) - 중복이 있는 경우")
 	- [Solutions](https://github.com/bluedawnstar/youtube/blob/master/algorithm_datastructure/combinatorics/LeetCode%20-%2090%2C%20subsets%20II.cpp "Solutions")
     - Tag: combination, backtracking
+  - [Algorithm] 구간 합(range sum) #1 - 1차원 prefix sum](https://youtu.be/_2DOKWvGets "Algorithm - 구간 합(range sum) #1 - 1차원 prefix sum")
+	- [Solutions](https://github.com/bluedawnstar/youtube/blob/master/algorithm_datastructure/range_query/prefix_sum.h "Solutions")
+    - Tag: prefix sum
+  - [Algorithm] 구간 합(range sum) #2 - Binary Indexed Tree (Fenwick Tree)](https://youtu.be/gtU9NvsDuh8 "Algorithm - 구간 합(range sum) #2 - Binary Indexed Tree (Fenwick Tree)")
+	- [Solutions](https://github.com/bluedawnstar/youtube/blob/master/algorithm_datastructure/range_query/binary_indexed_tree.h "Solutions")
+    - Tag: binary indexed tree, fenwick tree
+  - [Algorithm] 구간 합(range sum) #3 - Range Add & Range Sum](https://youtu.be/OTLqjdjpJzA "Algorithm - 구간 합(range sum) #3 - Range Add & Range Sum")
+	- [Solutions](https://github.com/bluedawnstar/youtube/blob/master/algorithm_datastructure/range_query/binary_indexed_tree_range_add_and_sum.h "Solutions")
+    - Tag: binary indexed tree, fenwick tree
 
 
 ## LeetCode
