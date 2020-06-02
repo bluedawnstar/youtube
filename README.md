@@ -42,7 +42,15 @@
   - [Algorithm - 구간 합(range sum) #3 - Range Add & Range Sum](https://youtu.be/OTLqjdjpJzA "Algorithm - 구간 합(range sum) #3 - Range Add & Range Sum")
 	- [Solutions](https://github.com/bluedawnstar/youtube/blob/master/algorithm_datastructure/range_query/binary_indexed_tree_range_add_and_sum.h "Solutions")
     - Tag: binary indexed tree, fenwick tree
-
+  - [Algorithm - string matching #1 - introduction](https://youtu.be/_hsHF9_C_GQ "Algorithm - string matching #1 - introduction")
+	- [Solutions](https://github.com/bluedawnstar/youtube/blob/master/algorithm_datastructure/string/string_matching.h "Solutions")
+    - Tag: string, matching
+  - [Algorithm - string matching #2 - KMP and prefix function (1/2)](https://youtu.be/OhMFeV8VeAc "Algorithm - string matching #2 - KMP and prefix function (1/2)")
+	- [Solutions](https://github.com/bluedawnstar/youtube/blob/master/algorithm_datastructure/string/string_matching.h "Solutions")
+    - Tag: string, matching, KMP, prefix function
+  - [Algorithm - string matching #2 - KMP and prefix function (2/2)](https://youtu.be/SkZA7752zS0 "Algorithm - string matching #2 - KMP and prefix function (2/2)")
+	- [Solutions](https://github.com/bluedawnstar/youtube/blob/master/leetcode/1392%2C%20Longest%20Happy%20Prefix.cpp "Solutions")
+    - Tag: string, matching, prefix function
 
 ## LeetCode
   - [1323. Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/ "1323. Maximum 69 Number")
@@ -209,3 +217,7 @@
     - [YouTube](https://youtu.be/crWQCiQUp_M "YouTube")
 	- [Solutions](https://github.com/bluedawnstar/youtube/blob/master/leetcode/1383%2C%20Maximum%20Performance%20of%20a%20Team.cpp "Solutions")
     - Tag: hard, greedy, sort, heap
+ - [1392. Longest Happy Prefix](https://leetcode.com/problems/longest-happy-prefix/ "1392. Longest Happy Prefix")
+    - [YouTube](https://youtu.be/SkZA7752zS0 "YouTube")
+	- [Solutions](https://github.com/bluedawnstar/youtube/blob/master/leetcode/1392%2C%20Longest%20Happy%20Prefix.cpp "Solutions")
+    - Tag: hard, string, prefix function
