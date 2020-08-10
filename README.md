@@ -221,3 +221,7 @@
     - [YouTube](https://youtu.be/SkZA7752zS0 "YouTube")
 	- [Solutions](https://github.com/bluedawnstar/youtube/blob/master/leetcode/1392%2C%20Longest%20Happy%20Prefix.cpp "Solutions")
     - Tag: hard, string, prefix function
+ - [1397. Find All Good Strings](https://leetcode.com/problems/find-all-good-strings/ "1397. Find All Good Strings")
+    - [YouTube](https://youtu.be/P6PIeUY0cL4 "YouTube")
+	- [Solutions](https://github.com/bluedawnstar/youtube/blob/master/leetcode/1397%2C%20Find%20All%20Good%20Strings.cpp "Solutions")
+    - Tag: hard, string, prefix function, dynamic programming
