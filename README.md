@@ -225,3 +225,7 @@
     - [YouTube](https://youtu.be/P6PIeUY0cL4 "YouTube")
 	- [Solutions](https://github.com/bluedawnstar/youtube/blob/master/leetcode/1397%2C%20Find%20All%20Good%20Strings.cpp "Solutions")
     - Tag: hard, string, prefix function, dynamic programming
+ - [1406. Stone Game III](https://leetcode.com/problems/stone-game-iii/ "1406. Stone Game III")
+    - [YouTube](https://youtu.be/jTK_P6_Zalg "YouTube")
+	- [Solutions](https://github.com/bluedawnstar/youtube/blob/master/leetcode/1406%2C%20Stone%20Game%20III.cpp "Solutions")
+    - Tag: hard, min-max, memoization, dynamic programming
