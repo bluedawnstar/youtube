@@ -51,6 +51,18 @@
   - [Algorithm - string matching #2 - KMP and prefix function (2/2)](https://youtu.be/SkZA7752zS0 "Algorithm - string matching #2 - KMP and prefix function (2/2)")
 	- [Solutions](https://github.com/bluedawnstar/youtube/blob/master/leetcode/1392%2C%20Longest%20Happy%20Prefix.cpp "Solutions")
     - Tag: string, matching, prefix function
+  - [Algorithm - sliding window #1 (1/3)](https://youtu.be/0uSEKnn5hJg "sliding window #1 (1/3)")
+    - [Problem](https://leetcode.com/discuss/interview-question/370112 "Problem")
+	- [Solutions](https://github.com/bluedawnstar/youtube/blob/master/algorithm_datastructure/sliding_window/sliding_window_1.cpp "Solutions")
+    - Tag: sliding window
+  - [Algorithm - sliding window #2 (2/3)](https://youtu.be/xzRYqeoPyLk "sliding window #2 (2/3)")
+    - [Problem](https://leetcode.com/problems/longest-substring-without-repeating-characters/ "Problem")
+	- [Solutions](https://github.com/bluedawnstar/youtube/blob/master/algorithm_datastructure/sliding_window/sliding_window_2.h "Solutions")
+    - Tag: sliding window
+  - [Algorithm - sliding window #3 (3/3)](https://youtu.be/f9xL16rv9K8 "sliding window #3 (3/3)")
+    - [Problem](https://leetcode.com/problems/minimum-window-substring/ "Problem")
+	- [Solutions](https://github.com/bluedawnstar/youtube/blob/master/algorithm_datastructure/sliding_window/sliding_window_3.h "Solutions")
+    - Tag: sliding window
 
 ## LeetCode
   - [1323. Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/ "1323. Maximum 69 Number")
