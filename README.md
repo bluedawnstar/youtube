@@ -42,6 +42,8 @@
   - [Algorithm - 구간 합(range sum) #3 - Range Add & Range Sum](https://youtu.be/OTLqjdjpJzA "Algorithm - 구간 합(range sum) #3 - Range Add & Range Sum")
 	- [Solutions](https://github.com/bluedawnstar/youtube/blob/master/algorithm_datastructure/range_query/binary_indexed_tree_range_add_and_sum.h "Solutions")
     - Tag: binary indexed tree, fenwick tree
+  - [Algorithm - 2D 구간 합(range sum) #1 - 2D prefix sum](https://youtu.be/KT864Aa3zE0 "Algorithm - 2D 구간 합(range sum) #1 - 2D prefix sum")
+    - Tag: 2D prefix sum
   - [Algorithm - string matching #1 - introduction](https://youtu.be/_hsHF9_C_GQ "Algorithm - string matching #1 - introduction")
 	- [Solutions](https://github.com/bluedawnstar/youtube/blob/master/algorithm_datastructure/string/string_matching.h "Solutions")
     - Tag: string, matching
@@ -63,7 +65,12 @@
     - [Problem](https://leetcode.com/problems/minimum-window-substring/ "Problem")
 	- [Solutions](https://github.com/bluedawnstar/youtube/blob/master/algorithm_datastructure/sliding_window/sliding_window_3.h "Solutions")
     - Tag: sliding window
-
+  - [Algorithm - Segment Tree (range query) #1/2 - introduction](https://youtu.be/075fcq7oCC8 "Algorithm - Segment Tree (range query) #1/2 - introduction")
+    - Tag: range query, segment tree
+  - [Algorithm - Segment Tree (range query) #2/2 - code](https://youtu.be/ahFB9eCnI6c "Algorithm - Segment Tree (range query) #2/2 - code")
+	- [Solutions](https://github.com/bluedawnstar/youtube/blob/master/algorithm_datastructure/range_query/segment_tree.h "Solutions")
+    - Tag: range query, segment tree
+ 
 ## LeetCode
   - [1323. Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/ "1323. Maximum 69 Number")
     - [YouTube](https://www.youtube.com/watch?v=2548yA1Re78 "YouTube")
