@@ -70,6 +70,8 @@
   - [Algorithm - Segment Tree (range query) #2/2 - code](https://youtu.be/ahFB9eCnI6c "Algorithm - Segment Tree (range query) #2/2 - code")
 	- [Solutions](https://github.com/bluedawnstar/youtube/blob/master/algorithm_datastructure/range_query/segment_tree.h "Solutions")
     - Tag: range query, segment tree
+  - [Algorithm - Square Root Decomposition](https://youtu.be/UV81ONajQIs "Algorithm - Square Root Decomposition")
+    - Tag: square root decomposition, range query
  
 ## LeetCode
   - [1323. Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/ "1323. Maximum 69 Number")
