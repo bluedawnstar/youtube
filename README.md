@@ -250,3 +250,7 @@
     - [YouTube](https://youtu.be/jTK_P6_Zalg "YouTube")
 	- [Solutions](https://github.com/bluedawnstar/youtube/blob/master/leetcode/1406%2C%20Stone%20Game%20III.cpp "Solutions")
     - Tag: hard, min-max, memoization, dynamic programming
+ - [1411. Number of Ways to Paint N ¡¿ 3 Grid](https://leetcode.com/problems/number-of-ways-to-paint-n-3-grid/ "1411. Number of Ways to Paint N ¡¿ 3 Grid")
+    - [YouTube](https://youtu.be/rrhquJDbZOA "YouTube")
+	- [Solutions](https://github.com/bluedawnstar/youtube/blob/master/leetcode/1411%2C%20Number%20of%20Ways%20to%20Paint%20N%20%C3%97%203%20Grid.cpp "Solutions")
+    - Tag: hard, dynamic programming
