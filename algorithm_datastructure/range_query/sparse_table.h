@@ -16,7 +16,7 @@ struct SparseTable {
     //---
 
     int N;
-    std::vector<std::vector<int>> value;    // sparse table
+    std::vector<std::vector<int>> table;    // sparse table
     std::vector<int> H;                     // level
 
     void build(const int a[], int n) {
@@ -29,12 +29,12 @@ struct SparseTable {
             H[i] = H[i >> 1] + 1;
 
         // sparse table
-        value.resize(H.back() + 1, std::vector<int>(n));
+        table.resize(H.back() + 1, std::vector<int>(n));
         for (int i = 0; i < n; i++)
-            value[0][i] = a[i];
-        for (int i = 1, step = 1; i < int(value.size()); i++, step <<= 1) {
-            auto& prev = value[i - 1];
-            auto& curr = value[i];
+            table[0][i] = a[i];
+        for (int i = 1, step = 1; i < int(table.size()); i++, step <<= 1) {
+            auto& prev = table[i - 1];
+            auto& curr = table[i];
             for (int j = 0; j < n; j++) {
                 if (j + step < n)
                     curr[j] = merge(prev[j], prev[j + step]);
@@ -47,7 +47,7 @@ struct SparseTable {
     int query(int left, int right) {
         right++;
         int k = H[right - left];
-        return merge(value[k][left], value[k][right - (1 << k)]);
+        return merge(table[k][left], table[k][right - (1 << k)]);
     }
 
     //---
@@ -61,7 +61,7 @@ struct SparseTable {
         while (size > 0) {
             int lastBit = size & -size;
             int level = H[lastBit];
-            res += value[level][left]);
+            res += table[level][left]);
 
             left += lastBit;
             size -= lastBit;

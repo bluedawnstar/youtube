@@ -72,6 +72,12 @@
     - Tag: range query, segment tree
   - [Algorithm - Square Root Decomposition](https://youtu.be/UV81ONajQIs "Algorithm - Square Root Decomposition")
     - Tag: square root decomposition, range query
+  - [Algorithm - Sparse Table (range query)](https://youtu.be/toBt6dHcvdA "Algorithm - Sparse Table (range query)")
+	- [Solutions](https://github.com/bluedawnstar/youtube/blob/master/algorithm_datastructure/range_query/sparse_table.h "Solutions")
+    - Tag: range query, sparse table
+  - [Algorithm - Disjoint Sparse Table (range query)](https://youtu.be/XyKRc71z9Pk "Algorithm - Disjoint Sparse Table (range query)")
+	- [Solutions](https://github.com/bluedawnstar/youtube/blob/master/algorithm_datastructure/range_query/disjoint_sparse_table.h "Solutions")
+    - Tag: range query, disjoint sparse table
  
 ## LeetCode
   - [1323. Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/ "1323. Maximum 69 Number")
