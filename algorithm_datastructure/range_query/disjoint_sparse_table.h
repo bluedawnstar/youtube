@@ -61,7 +61,7 @@ struct DisjointSparseTable {
     }
 
     // O(N)
-    void update(int index, T x) {
+    void update(int index, int x) {
         table[0][index] = x;
         for (int h = 1, range = 4; range <= N; h++, range <<= 1) {
             int half = range >> 1;

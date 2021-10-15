@@ -61,7 +61,7 @@ struct SparseTable {
         while (size > 0) {
             int lastBit = size & -size;
             int level = H[lastBit];
-            res += table[level][left]);
+            res += table[level][left];
 
             left += lastBit;
             size -= lastBit;
