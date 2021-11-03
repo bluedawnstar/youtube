@@ -1,8 +1,9 @@
 #pragma once
 
 struct SegmentTree {
-    int N;              // size
-    vector<int> tree;   // segment tree
+    static const int DEFAULT_VALUE = 0;
+    //static const int DEFAULT_VALUE = numeric_limits<int>::max(); // for min
+    //static const int DEFAULT_VALUE = numeric_limits<int>::min(); // for max
 
     // merge operation
     int merge(int left, int right) {
@@ -12,6 +13,9 @@ struct SegmentTree {
         //...
     }
 
+
+    int N;              // size
+    vector<int> tree;   // segment tree
 
     void build(const int arr[], int size) {
         N = size;
@@ -41,7 +45,7 @@ private:
             return tree[node] = arr[nodeLeft];
 
         int mid = nodeLeft + (nodeRight - nodeLeft) / 2;
-        int leftVal  = buildRec(arr, node * 2    , nodeLeft, mid);
+        int leftVal = buildRec(arr, node * 2, nodeLeft, mid);
         int rightVal = buildRec(arr, node * 2 + 1, mid + 1, nodeRight);
         return tree[node] = merge(leftVal, rightVal);
     }
@@ -54,7 +58,7 @@ private:
             return tree[node] = newValue;
 
         int mid = nodeLeft + (nodeRight - nodeLeft) / 2;
-        int leftVal  = updateRec(index, newValue, node * 2    , nodeLeft, mid);
+        int leftVal = updateRec(index, newValue, node * 2, nodeLeft, mid);
         int rightVal = updateRec(index, newValue, node * 2 + 1, mid + 1, nodeRight);
         return tree[node] = merge(leftVal, rightVal);
     }
@@ -67,20 +71,20 @@ private:
             return tree[node] = newValue;
 
         int mid = nodeLeft + (nodeRight - nodeLeft) / 2;
-        int leftVal  = updateRec(left, right, newValue, node * 2    , nodeLeft, mid);
+        int leftVal = updateRec(left, right, newValue, node * 2, nodeLeft, mid);
         int rightVal = updateRec(left, right, newValue, node * 2 + 1, mid + 1, nodeRight);
         return tree[node] = merge(leftVal, rightVal);
     }
 
     int queryRec(int left, int right, int node, int nodeLeft, int nodeRight) {
         if (right < nodeLeft || nodeRight < left)
-            return 0;           // default value
+            return DEFAULT_VALUE;   // default value
 
         if (left <= nodeLeft && nodeRight <= right)
             return tree[node];
 
         int mid = nodeLeft + (nodeRight - nodeLeft) / 2;
-        return merge(queryRec(left, right, node * 2    , nodeLeft, mid),
+        return merge(queryRec(left, right, node * 2, nodeLeft, mid),
                      queryRec(left, right, node * 2 + 1, mid + 1, nodeRight));
     }
 };
