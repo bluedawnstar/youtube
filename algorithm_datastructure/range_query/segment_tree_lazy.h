@@ -20,8 +20,8 @@ struct SegmentTreeLazy {
 
     int N;                  // size
     vector<int> tree;       // segment tree
-    vector<int> lazyValue;  // segment tree
-    vector<bool> lazyExist; // segment tree
+    vector<int> lazyValue;  // lazy value
+    vector<bool> lazyExist; // 
 
     void build(const int arr[], int size) {
         N = size;
