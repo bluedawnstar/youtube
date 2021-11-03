@@ -70,6 +70,9 @@
   - [Algorithm - Segment Tree (range query) #2/2 - code](https://youtu.be/ahFB9eCnI6c "Algorithm - Segment Tree (range query) #2/2 - code")
 	- [Solutions](https://github.com/bluedawnstar/youtube/blob/master/algorithm_datastructure/range_query/segment_tree.h "Solutions")
     - Tag: range query, segment tree
+  - [Algorithm - Segment Tree (range query) - Lazy Propagation](https://youtu.be/dJpNh7R4LM8 "Algorithm - Segment Tree (range query) - Lazy Propagation")
+	- [Solutions](https://github.com/bluedawnstar/youtube/blob/master/algorithm_datastructure/range_query/segment_tree_lazy.h "Solutions")
+    - Tag: range query, segment tree, lazy propagation
   - [Algorithm - Square Root Decomposition](https://youtu.be/UV81ONajQIs "Algorithm - Square Root Decomposition")
     - Tag: square root decomposition, range query
   - [Algorithm - Sparse Table (range query)](https://youtu.be/toBt6dHcvdA "Algorithm - Sparse Table (range query)")
