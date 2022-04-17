@@ -81,6 +81,34 @@
   - [Algorithm - Disjoint Sparse Table (range query)](https://youtu.be/XyKRc71z9Pk "Algorithm - Disjoint Sparse Table (range query)")
 	- [Solutions](https://github.com/bluedawnstar/youtube/blob/master/algorithm_datastructure/range_query/disjoint_sparse_table.h "Solutions")
     - Tag: range query, disjoint sparse table
+  - [Algorithm - range query 알고리즘/자료구조 정리](https://youtu.be/b_rsXu1pn08 "Algorithm - range query 알고리즘/자료구조 정리")
+    - Tag: range query
+  - [Algorithm - Sqrt Tree (range query)](https://youtu.be/DPNI3cf6eC0 "Algorithm - Sqrt Tree (range query)")
+	- [Solutions](https://github.com/bluedawnstar/youtube/blob/master/algorithm_datastructure/range_query/sqrt_tree.h "Solutions")
+    - Tag: range query, sqrt tree
+  - [Algorithm - Segment Tree - lazy propagation (range query)](https://youtu.be/dJpNh7R4LM8 "Algorithm - Segment Tree - lazy propagation (range query)")
+	- [Solutions](https://github.com/bluedawnstar/youtube/blob/master/algorithm_datastructure/range_query/segment_tree_lazy.h "Solutions")
+    - Tag: range query, segment tree, lazy propagation
+  - [Algorithm - binary search #1 (binary search, lower/upper bound)](https://youtu.be/k5A3HicbLec "Algorithm - binary search #1 (binary search, lower/upper bound)")
+    - Tag: binary search, lower bound, upper bound
+  - [Algorithm - binary search #2 (decision problem, example-1)](https://youtu.be/A55yjmH5TQs "Algorithm - binary search #2 (decision problem, example-1)")
+    - Tag: binary search, lower bound, decision problem
+  - [Algorithm - binary search #3 (example-2)](https://youtu.be/zxMZ9Vdu-K0 "Algorithm - binary search #3 (example-2)")
+    - Tag: binary search
+  - [Algorithm - binary search #4 (example-3)](https://youtu.be/J4DJ9EwvC_w "Algorithm - binary search #4 (example-3)")
+    - Tag: binary search
+  - [Algorithm - binary search #5 (example-4)](https://youtu.be/P8b2KrB9ezk "Algorithm - binary search #5 (example-4)")
+    - Tag: binary search
+  - [Algorithm - ternary search #1](https://youtu.be/60DmlS4SmjM "Algorithm - ternary search #1")
+    - Tag: ternary search
+  - [Algorithm - ternary search #2 (feat. convex function)](https://youtu.be/q50mW6ZU2pI "Algorithm - ternary search #2 (feat. convex function)")
+    - Tag: ternary search
+  - [Algorithm - sorting algorithm - #1 (introduction)](https://youtu.be/EF_7bLB4O8I "Algorithm - sorting algorithm - #1 (introduction)")
+    - Tag: sorting
+  - [Algorithm - sorting algorithm - #2 (swap, bubble/selection/insertion sort)](https://youtu.be/p6DG1bmKdWI "Algorithm - sorting algorithm - #2 (swap, bubble/selection/insertion sort)")
+    - Tag: sorting, swap, bubble sort, selection sort, insertion sort
+  - [Algorithm - sorting algorithm - #3 (shellsort)](https://youtu.be/LKVOiLNk3JM "Algorithm - sorting algorithm - #3 (shellsort)")
+    - Tag: sorting, shell sort
  
 ## LeetCode
   - [1323. Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/ "1323. Maximum 69 Number")
