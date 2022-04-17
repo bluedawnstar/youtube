@@ -27,87 +27,84 @@
   - [Graph Basic 7 - 모든 쌍의 최단 거리 찾기 Floyd Warshall](https://youtu.be/YiGxC9hAg4s "Graph Basic 7 - 모든 쌍의 최단 거리 찾기 Floyd Warshall")
 	- [Solutions](https://github.com/bluedawnstar/youtube/tree/master/algorithm_datastructure/graph "Solutions")
     - Tag: graph, shortest path, all pairs, Floyd-Warshall
-  - [Algorithm - 모든 조합(부분집합) 구하기 (1/2)](https://youtu.be/wy678Yc5iqE "Algorithm - 모든 조합(부분집합) 구하기 (1/2)")
+  - [Combinatorics - 모든 조합(부분집합) 구하기 (1/2)](https://youtu.be/wy678Yc5iqE "Combinatorics - 모든 조합(부분집합) 구하기 (1/2)")
 	- [Solutions](https://github.com/bluedawnstar/youtube/blob/master/algorithm_datastructure/combinatorics/LeetCode%20-%2078%2C%20subsets.cpp "Solutions")
     - Tag: combination, bitmask, backtracking
-  - [Algorithm - 모든 조합(부분집합) 구하기 (2/2) - 중복이 있는 경우](https://youtu.be/kaIZnfwYg1M "Algorithm - 모든 조합(부분집합) 구하기 (2/2) - 중복이 있는 경우")
+  - [Combinatorics - 모든 조합(부분집합) 구하기 (2/2) - 중복이 있는 경우](https://youtu.be/kaIZnfwYg1M "Combinatorics - 모든 조합(부분집합) 구하기 (2/2) - 중복이 있는 경우")
 	- [Solutions](https://github.com/bluedawnstar/youtube/blob/master/algorithm_datastructure/combinatorics/LeetCode%20-%2090%2C%20subsets%20II.cpp "Solutions")
     - Tag: combination, backtracking
-  - [Algorithm - 구간 합(range sum) #1 - 1차원 prefix sum](https://youtu.be/_2DOKWvGets "Algorithm - 구간 합(range sum) #1 - 1차원 prefix sum")
+  - [Range Query - 구간 합(range sum) #1 - 1차원 prefix sum](https://youtu.be/_2DOKWvGets "Range Query - 구간 합(range sum) #1 - 1차원 prefix sum")
 	- [Solutions](https://github.com/bluedawnstar/youtube/blob/master/algorithm_datastructure/range_query/prefix_sum.h "Solutions")
     - Tag: prefix sum
-  - [Algorithm - 구간 합(range sum) #2 - Binary Indexed Tree (Fenwick Tree)](https://youtu.be/gtU9NvsDuh8 "Algorithm - 구간 합(range sum) #2 - Binary Indexed Tree (Fenwick Tree)")
+  - [Range Query - 구간 합(range sum) #2 - Binary Indexed Tree (Fenwick Tree)](https://youtu.be/gtU9NvsDuh8 "Range Query - 구간 합(range sum) #2 - Binary Indexed Tree (Fenwick Tree)")
 	- [Solutions](https://github.com/bluedawnstar/youtube/blob/master/algorithm_datastructure/range_query/binary_indexed_tree.h "Solutions")
     - Tag: binary indexed tree, fenwick tree
-  - [Algorithm - 구간 합(range sum) #3 - Range Add & Range Sum](https://youtu.be/OTLqjdjpJzA "Algorithm - 구간 합(range sum) #3 - Range Add & Range Sum")
+  - [Range Query - 구간 합(range sum) #3 - Range Add & Range Sum](https://youtu.be/OTLqjdjpJzA "Range Query - 구간 합(range sum) #3 - Range Add & Range Sum")
 	- [Solutions](https://github.com/bluedawnstar/youtube/blob/master/algorithm_datastructure/range_query/binary_indexed_tree_range_add_and_sum.h "Solutions")
     - Tag: binary indexed tree, fenwick tree
-  - [Algorithm - 2D 구간 합(range sum) #1 - 2D prefix sum](https://youtu.be/KT864Aa3zE0 "Algorithm - 2D 구간 합(range sum) #1 - 2D prefix sum")
+  - [Range Query - 2D 구간 합(range sum) #1 - 2D prefix sum](https://youtu.be/KT864Aa3zE0 "Range Query - 2D 구간 합(range sum) #1 - 2D prefix sum")
     - Tag: 2D prefix sum
-  - [Algorithm - string matching #1 - introduction](https://youtu.be/_hsHF9_C_GQ "Algorithm - string matching #1 - introduction")
+  - [String matching #1 - introduction](https://youtu.be/_hsHF9_C_GQ "String matching #1 - introduction")
 	- [Solutions](https://github.com/bluedawnstar/youtube/blob/master/algorithm_datastructure/string/string_matching.h "Solutions")
     - Tag: string, matching
-  - [Algorithm - string matching #2 - KMP and prefix function (1/2)](https://youtu.be/OhMFeV8VeAc "Algorithm - string matching #2 - KMP and prefix function (1/2)")
+  - [String matching #2 - KMP and prefix function (1/2)](https://youtu.be/OhMFeV8VeAc "String matching #2 - KMP and prefix function (1/2)")
 	- [Solutions](https://github.com/bluedawnstar/youtube/blob/master/algorithm_datastructure/string/string_matching.h "Solutions")
     - Tag: string, matching, KMP, prefix function
-  - [Algorithm - string matching #2 - KMP and prefix function (2/2)](https://youtu.be/SkZA7752zS0 "Algorithm - string matching #2 - KMP and prefix function (2/2)")
+  - [String matching #2 - KMP and prefix function (2/2)](https://youtu.be/SkZA7752zS0 "String matching #2 - KMP and prefix function (2/2)")
 	- [Solutions](https://github.com/bluedawnstar/youtube/blob/master/leetcode/1392%2C%20Longest%20Happy%20Prefix.cpp "Solutions")
     - Tag: string, matching, prefix function
-  - [Algorithm - sliding window #1 (1/3)](https://youtu.be/0uSEKnn5hJg "sliding window #1 (1/3)")
+  - [Sliding window #1/3](https://youtu.be/0uSEKnn5hJg "Sliding window #1/3")
     - [Problem](https://leetcode.com/discuss/interview-question/370112 "Problem")
 	- [Solutions](https://github.com/bluedawnstar/youtube/blob/master/algorithm_datastructure/sliding_window/sliding_window_1.cpp "Solutions")
     - Tag: sliding window
-  - [Algorithm - sliding window #2 (2/3)](https://youtu.be/xzRYqeoPyLk "sliding window #2 (2/3)")
+  - [Sliding window #2/3](https://youtu.be/xzRYqeoPyLk "Sliding window #2/3")
     - [Problem](https://leetcode.com/problems/longest-substring-without-repeating-characters/ "Problem")
 	- [Solutions](https://github.com/bluedawnstar/youtube/blob/master/algorithm_datastructure/sliding_window/sliding_window_2.h "Solutions")
     - Tag: sliding window
-  - [Algorithm - sliding window #3 (3/3)](https://youtu.be/f9xL16rv9K8 "sliding window #3 (3/3)")
+  - [Sliding window #3/3](https://youtu.be/f9xL16rv9K8 "Sliding window #3/3")
     - [Problem](https://leetcode.com/problems/minimum-window-substring/ "Problem")
 	- [Solutions](https://github.com/bluedawnstar/youtube/blob/master/algorithm_datastructure/sliding_window/sliding_window_3.h "Solutions")
     - Tag: sliding window
-  - [Data Structure/Algorithm - Segment Tree (range query) #1/2 - introduction](https://youtu.be/075fcq7oCC8 "Algorithm - Segment Tree (range query) #1/2 - introduction")
+  - [Range Query - Segment Tree #1/2 - introduction](https://youtu.be/075fcq7oCC8 "Range Query - Segment Tree #1/2 - introduction")
     - Tag: range query, segment tree
-  - [Data Structure/Algorithm - Segment Tree (range query) #2/2 - code](https://youtu.be/ahFB9eCnI6c "Algorithm - Segment Tree (range query) #2/2 - code")
+  - [Range Query - Segment Tree #2/2 - code](https://youtu.be/ahFB9eCnI6c "Range Query - Segment Tree #2/2 - code")
 	- [Solutions](https://github.com/bluedawnstar/youtube/blob/master/algorithm_datastructure/range_query/segment_tree.h "Solutions")
     - Tag: range query, segment tree
-  - [Data Structure/Algorithm - Segment Tree (range query) - Lazy Propagation](https://youtu.be/dJpNh7R4LM8 "Algorithm - Segment Tree (range query) - Lazy Propagation")
+  - [Range Query - Segment Tree - Lazy Propagation](https://youtu.be/dJpNh7R4LM8 "Range Query - Segment Tree - Lazy Propagation")
 	- [Solutions](https://github.com/bluedawnstar/youtube/blob/master/algorithm_datastructure/range_query/segment_tree_lazy.h "Solutions")
     - Tag: range query, segment tree, lazy propagation
-  - [Algorithm - Square Root Decomposition](https://youtu.be/UV81ONajQIs "Algorithm - Square Root Decomposition")
+  - [Range Query - Square Root Decomposition](https://youtu.be/UV81ONajQIs "Range Query - Square Root Decomposition")
     - Tag: square root decomposition, range query
-  - [Data Structure/Algorithm - Sparse Table (range query)](https://youtu.be/toBt6dHcvdA "Algorithm - Sparse Table (range query)")
+  - [Range Query - Sparse Table](https://youtu.be/toBt6dHcvdA "Range Query - Sparse Table")
 	- [Solutions](https://github.com/bluedawnstar/youtube/blob/master/algorithm_datastructure/range_query/sparse_table.h "Solutions")
     - Tag: range query, sparse table
-  - [Data Structure/Algorithm - Disjoint Sparse Table (range query)](https://youtu.be/XyKRc71z9Pk "Algorithm - Disjoint Sparse Table (range query)")
+  - [Range Query - Disjoint Sparse Table](https://youtu.be/XyKRc71z9Pk "Range Query - Disjoint Sparse Table")
 	- [Solutions](https://github.com/bluedawnstar/youtube/blob/master/algorithm_datastructure/range_query/disjoint_sparse_table.h "Solutions")
     - Tag: range query, disjoint sparse table
-  - [Data Structure/Algorithm - range query 알고리즘/자료구조 정리](https://youtu.be/b_rsXu1pn08 "Algorithm - range query 알고리즘/자료구조 정리")
+  - [Range Query - 알고리즘/자료구조 정리](https://youtu.be/b_rsXu1pn08 "Range Query - 알고리즘/자료구조 정리")
     - Tag: range query
-  - [Data Structure/Algorithm - Sqrt Tree (range query)](https://youtu.be/DPNI3cf6eC0 "Algorithm - Sqrt Tree (range query)")
+  - [Range Query - Sqrt Tree](https://youtu.be/DPNI3cf6eC0 "Range Query - Sqrt Tree")
 	- [Solutions](https://github.com/bluedawnstar/youtube/blob/master/algorithm_datastructure/range_query/sqrt_tree.h "Solutions")
     - Tag: range query, sqrt tree
-  - [Data Structure/Algorithm - Segment Tree - lazy propagation (range query)](https://youtu.be/dJpNh7R4LM8 "Algorithm - Segment Tree - lazy propagation (range query)")
-	- [Solutions](https://github.com/bluedawnstar/youtube/blob/master/algorithm_datastructure/range_query/segment_tree_lazy.h "Solutions")
-    - Tag: range query, segment tree, lazy propagation
-  - [Algorithm - binary search #1 (binary search, lower/upper bound)](https://youtu.be/k5A3HicbLec "Algorithm - binary search #1 (binary search, lower/upper bound)")
+  - [Binary search #1 - binary search, lower/upper bound](https://youtu.be/k5A3HicbLec "Binary search #1 - binary search, lower/upper bound")
     - Tag: binary search, lower bound, upper bound
-  - [Algorithm - binary search #2 (decision problem, example-1)](https://youtu.be/A55yjmH5TQs "Algorithm - binary search #2 (decision problem, example-1)")
+  - [Binary search #2 - decision problem, example-1](https://youtu.be/A55yjmH5TQs "Binary search #2 - decision problem, example-1")
     - Tag: binary search, lower bound, decision problem
-  - [Algorithm - binary search #3 (example-2)](https://youtu.be/zxMZ9Vdu-K0 "Algorithm - binary search #3 (example-2)")
+  - [Binary search #3 - example-2](https://youtu.be/zxMZ9Vdu-K0 "Binary search #3 - example-2")
     - Tag: binary search
-  - [Algorithm - binary search #4 (example-3)](https://youtu.be/J4DJ9EwvC_w "Algorithm - binary search #4 (example-3)")
+  - [Binary search #4 - example-3](https://youtu.be/J4DJ9EwvC_w "Binary search #4 - example-3")
     - Tag: binary search
-  - [Algorithm - binary search #5 (example-4)](https://youtu.be/P8b2KrB9ezk "Algorithm - binary search #5 (example-4)")
+  - [Binary search #5 - example-4](https://youtu.be/P8b2KrB9ezk "Binary search #5 - example-4")
     - Tag: binary search
-  - [Algorithm - ternary search #1](https://youtu.be/60DmlS4SmjM "Algorithm - ternary search #1")
+  - [Ternary search #1](https://youtu.be/60DmlS4SmjM "Ternary search #1")
     - Tag: ternary search
-  - [Algorithm - ternary search #2 (feat. convex function)](https://youtu.be/q50mW6ZU2pI "Algorithm - ternary search #2 (feat. convex function)")
+  - [Ternary search #2 (feat. convex function)](https://youtu.be/q50mW6ZU2pI "Ternary search #2 (feat. convex function)")
     - Tag: ternary search
-  - [Algorithm - sorting algorithm - #1 (introduction)](https://youtu.be/EF_7bLB4O8I "Algorithm - sorting algorithm - #1 (introduction)")
+  - [Sorting algorithm #1 - introduction](https://youtu.be/EF_7bLB4O8I "Sorting algorithm #1 - introduction")
     - Tag: sorting
-  - [Algorithm - sorting algorithm - #2 (swap, bubble/selection/insertion sort)](https://youtu.be/p6DG1bmKdWI "Algorithm - sorting algorithm - #2 (swap, bubble/selection/insertion sort)")
+  - [Sorting algorithm #2 - swap, bubble/selection/insertion sort](https://youtu.be/p6DG1bmKdWI "Sorting algorithm #2 - swap, bubble/selection/insertion sort")
     - Tag: sorting, swap, bubble sort, selection sort, insertion sort
-  - [Algorithm - sorting algorithm - #3 (shellsort)](https://youtu.be/LKVOiLNk3JM "Algorithm - sorting algorithm - #3 (shellsort)")
+  - [Sorting algorithm #3 - shellsort](https://youtu.be/LKVOiLNk3JM "Sorting algorithm #3 - shellsort")
     - Tag: sorting, shell sort
  
 ## LeetCode
