@@ -65,28 +65,28 @@
     - [Problem](https://leetcode.com/problems/minimum-window-substring/ "Problem")
 	- [Solutions](https://github.com/bluedawnstar/youtube/blob/master/algorithm_datastructure/sliding_window/sliding_window_3.h "Solutions")
     - Tag: sliding window
-  - [Algorithm - Segment Tree (range query) #1/2 - introduction](https://youtu.be/075fcq7oCC8 "Algorithm - Segment Tree (range query) #1/2 - introduction")
+  - [Data Structure/Algorithm - Segment Tree (range query) #1/2 - introduction](https://youtu.be/075fcq7oCC8 "Algorithm - Segment Tree (range query) #1/2 - introduction")
     - Tag: range query, segment tree
-  - [Algorithm - Segment Tree (range query) #2/2 - code](https://youtu.be/ahFB9eCnI6c "Algorithm - Segment Tree (range query) #2/2 - code")
+  - [Data Structure/Algorithm - Segment Tree (range query) #2/2 - code](https://youtu.be/ahFB9eCnI6c "Algorithm - Segment Tree (range query) #2/2 - code")
 	- [Solutions](https://github.com/bluedawnstar/youtube/blob/master/algorithm_datastructure/range_query/segment_tree.h "Solutions")
     - Tag: range query, segment tree
-  - [Algorithm - Segment Tree (range query) - Lazy Propagation](https://youtu.be/dJpNh7R4LM8 "Algorithm - Segment Tree (range query) - Lazy Propagation")
+  - [Data Structure/Algorithm - Segment Tree (range query) - Lazy Propagation](https://youtu.be/dJpNh7R4LM8 "Algorithm - Segment Tree (range query) - Lazy Propagation")
 	- [Solutions](https://github.com/bluedawnstar/youtube/blob/master/algorithm_datastructure/range_query/segment_tree_lazy.h "Solutions")
     - Tag: range query, segment tree, lazy propagation
   - [Algorithm - Square Root Decomposition](https://youtu.be/UV81ONajQIs "Algorithm - Square Root Decomposition")
     - Tag: square root decomposition, range query
-  - [Algorithm - Sparse Table (range query)](https://youtu.be/toBt6dHcvdA "Algorithm - Sparse Table (range query)")
+  - [Data Structure/Algorithm - Sparse Table (range query)](https://youtu.be/toBt6dHcvdA "Algorithm - Sparse Table (range query)")
 	- [Solutions](https://github.com/bluedawnstar/youtube/blob/master/algorithm_datastructure/range_query/sparse_table.h "Solutions")
     - Tag: range query, sparse table
-  - [Algorithm - Disjoint Sparse Table (range query)](https://youtu.be/XyKRc71z9Pk "Algorithm - Disjoint Sparse Table (range query)")
+  - [Data Structure/Algorithm - Disjoint Sparse Table (range query)](https://youtu.be/XyKRc71z9Pk "Algorithm - Disjoint Sparse Table (range query)")
 	- [Solutions](https://github.com/bluedawnstar/youtube/blob/master/algorithm_datastructure/range_query/disjoint_sparse_table.h "Solutions")
     - Tag: range query, disjoint sparse table
-  - [Algorithm - range query 알고리즘/자료구조 정리](https://youtu.be/b_rsXu1pn08 "Algorithm - range query 알고리즘/자료구조 정리")
+  - [Data Structure/Algorithm - range query 알고리즘/자료구조 정리](https://youtu.be/b_rsXu1pn08 "Algorithm - range query 알고리즘/자료구조 정리")
     - Tag: range query
-  - [Algorithm - Sqrt Tree (range query)](https://youtu.be/DPNI3cf6eC0 "Algorithm - Sqrt Tree (range query)")
+  - [Data Structure/Algorithm - Sqrt Tree (range query)](https://youtu.be/DPNI3cf6eC0 "Algorithm - Sqrt Tree (range query)")
 	- [Solutions](https://github.com/bluedawnstar/youtube/blob/master/algorithm_datastructure/range_query/sqrt_tree.h "Solutions")
     - Tag: range query, sqrt tree
-  - [Algorithm - Segment Tree - lazy propagation (range query)](https://youtu.be/dJpNh7R4LM8 "Algorithm - Segment Tree - lazy propagation (range query)")
+  - [Data Structure/Algorithm - Segment Tree - lazy propagation (range query)](https://youtu.be/dJpNh7R4LM8 "Algorithm - Segment Tree - lazy propagation (range query)")
 	- [Solutions](https://github.com/bluedawnstar/youtube/blob/master/algorithm_datastructure/range_query/segment_tree_lazy.h "Solutions")
     - Tag: range query, segment tree, lazy propagation
   - [Algorithm - binary search #1 (binary search, lower/upper bound)](https://youtu.be/k5A3HicbLec "Algorithm - binary search #1 (binary search, lower/upper bound)")
