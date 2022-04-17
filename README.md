@@ -100,13 +100,16 @@
     - Tag: ternary search
   - [Ternary search #2 (feat. convex function)](https://youtu.be/q50mW6ZU2pI "Ternary search #2 (feat. convex function)")
     - Tag: ternary search
-  - [Sorting algorithm #1 - introduction](https://youtu.be/EF_7bLB4O8I "Sorting algorithm #1 - introduction")
+  - [Sorting - introduction](https://youtu.be/EF_7bLB4O8I "Sorting - introduction")
     - Tag: sorting
-  - [Sorting algorithm #2 - swap, bubble/selection/insertion sort](https://youtu.be/p6DG1bmKdWI "Sorting algorithm #2 - swap, bubble/selection/insertion sort")
+  - [Sorting - swap, bubble/selection/insertion sort](https://youtu.be/p6DG1bmKdWI "Sorting - swap, bubble/selection/insertion sort")
     - Tag: sorting, swap, bubble sort, selection sort, insertion sort
-  - [Sorting algorithm #3 - shellsort](https://youtu.be/LKVOiLNk3JM "Sorting algorithm #3 - shellsort")
+  - [Sorting - shellsort](https://youtu.be/LKVOiLNk3JM "Sorting - shellsort")
     - Tag: sorting, shell sort
- 
+  - [Sorting - merge sort #1 - merge operation](https://youtu.be/IUj7WEHYrZc "Sorting - merge sort #1 - merge operation")
+    - Tag: sorting, merge
+
+
 ## LeetCode
   - [1323. Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/ "1323. Maximum 69 Number")
     - [YouTube](https://www.youtube.com/watch?v=2548yA1Re78 "YouTube")
